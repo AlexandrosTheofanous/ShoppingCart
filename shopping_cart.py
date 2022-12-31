@@ -1,3 +1,5 @@
+# Candidate : Alexandros Theofanous
+# Time Spent: 2 Hours and 40 Minutes
 from abc import ABC, abstractmethod
 from typing import Dict
 
